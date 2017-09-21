@@ -1,0 +1,11 @@
+{
+	"ImportPath": "registry/Portus_Setup/tools/sshexec",
+	"GoVersion": "go1.5",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "golang.org/x/crypto/ssh",
+			"Rev": "5f31782cfb2b6373211f8f9fbf31283fa234b570"
+		}
+	]
+}
